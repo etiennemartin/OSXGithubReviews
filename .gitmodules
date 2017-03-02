@@ -1,0 +1,6 @@
+[submodule "GitHubReviews/Libraries/RequestKit"]
+	path = GitHubReviews/Libraries/RequestKit
+	url = git@github.com:nerdishbynature/RequestKit.git
+[submodule "GitHubReviews/Libraries/octokit.swift"]
+	path = GitHubReviews/Libraries/octokit.swift
+	url = git@github.com:nerdishbynature/octokit.swift.git
